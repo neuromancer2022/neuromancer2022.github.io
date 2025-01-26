@@ -1,14 +1,10 @@
-title: Dr Jonathan Tepper # your name (or website title) here
+title: Dr Jon Tepper # your name (or website title) here
 logo: "/images/JT_2017_short.jpg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Paragraph one
-  <br> Data Scientist with 6+ years experience running own successful data science consultancy and development business supporting clients mainly in City of London, elite UK Universities, US and New Zealand.<br>
-  Paragraph two
+  <br> 6+ years experience running own successful data science consultancy and development business supporting clients mainly in City of London, elite UK Universities, US and New Zealand.<br>
   <br>Proven experience in designing and delivering state-of-the-art machine learning-based solutions in areas such as macroeconomic forecasting, forex trading, breast cancer detection and sports analytics.<br>
-  Paragraph three
-  <br>Currently generating state-of-the-art bespoke recurrent neural network solutions for accurate forecasting of UK economy in conjunction with University of Birmingham and National Institute of Economic and Social Research (NIESR).<br>
-  Paragraph four
-  <br>Distinguished Academic Professional with 18+ years as a senior educator, researcher and academic manager, having developed and taught degree-level courses in data analytics, machine learning, and systems design at Nottingham Trent University, Aston University, and University of Birmingham.<br>
+  <br>Currently generating state-of-the-art bespoke recurrent neural network solutions for accurate forecasting of UK economy in conjunction with Uni of Birmingham and National Institute of Economic and Social Research (NIESR).<br>
+  <br>18+ years as a University lecturer in Computer Science teaching and internationally recognised research in data analytics and machine learning (Notts Trent Uni, Aston Uni,. Uni of Birmingham)<br>
   <a href="https://www.linkedin.com/in/jontepper2">View LinkedIn Profile</a> 
   
 remote_theme: pages-themes/minimal@v0.2.0
