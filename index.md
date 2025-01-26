@@ -1,29 +1,33 @@
 ## Portfolio
 
 ---
-
-### Category Name 1 
-
-[Project 1 Title](/sample_page)
+[Data Science Lifecycle(/sample_page)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
+[Classification](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
+[Time-series Forecasting](http://example.com/)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
 
-### Category Name 2
+[Teaching](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
 
-- [Project 1 Title](http://example.com/)
-- [Project 2 Title](http://example.com/)
-- [Project 3 Title](http://example.com/)
-- [Project 4 Title](http://example.com/)
-- [Project 5 Title](http://example.com/)
+---
+
+[Leadership and Management](http://example.com/)
+<img src="images/dummy_thumbnail.jpg?raw=true"/>
+
+
+- [Data Science Lifecycle](http://example.com/)
+- [Classification](http://example.com/)
+- [Time-series Forecasting](http://example.com/)
+- [Teaching](http://example.com/)
+- [Leadership and Management](http://example.com/)
 
 ---
 
