@@ -1,7 +1,7 @@
 ## Portfolio
 
 ---
-[Data Science Lifecycle(/sample_page)
+[Data Science Lifecycle](/pdf/sample_presentation.pdf)
 <img src="images/dummy_thumbnail.jpg?raw=true"/>
 
 ---
